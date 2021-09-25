@@ -5,7 +5,7 @@
 
 提交:
 `git add 文件名`
-
+也可以直接`git add -A`全部添加
 `git commit "-m 注释说明"`
 
 舍弃改变:
@@ -38,6 +38,7 @@ git commit
 (以后)`git push origin master`
 (删除)`git remote rm 库名(origin)`
 查看远程库库:`git remote -v`
+代码合并:`git pull --rebase origin master`
 
 分支管理:
 `git checkout -b dev(分支名)`

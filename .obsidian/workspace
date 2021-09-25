@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "实时获取学习进度.md",
+            "file": "git.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实时获取学习进度.md",
+                "file": "git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "61735e5e6d0a4ac5",
   "lastOpenFiles": [
+    "git.md",
     "实时获取学习进度.md",
     "Advanced.md",
-    "git.md",
     "solidworks.md",
     "挑战目录.md",
     "未命名.md",
