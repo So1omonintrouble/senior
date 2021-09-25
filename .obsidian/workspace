@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "1fb3c98f3dc2be72",
+    "type": "split",
+    "children": [
+      {
+        "id": "61735e5e6d0a4ac5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "git.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "01d925c2bd9bf144",
+    "type": "split",
+    "children": [
+      {
+        "id": "96740c6ab4f65ec5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf21d20bf74c4612",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5ab71c34ac46c013",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 179
+  },
+  "right": {
+    "id": "e513751be363a125",
+    "type": "split",
+    "children": [
+      {
+        "id": "831b4c8d2999e73d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe7391f4f4dfb8f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245,
+    "collapsed": true
+  },
+  "active": "61735e5e6d0a4ac5",
+  "lastOpenFiles": [
+    "git.md",
+    "conflict-files-obsidian-git.md",
+    "solidworks.md",
+    "实时获取学习进度.md",
+    "挑战目录.md",
+    "填表.md",
+    "喧闹.md",
+    "实时获取.md",
+    "在我心中.md",
+    "的啊.md"
+  ]
+}
