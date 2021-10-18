@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "挑战目录.md",
+            "file": "git.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "挑战目录.md",
+                "file": "git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,12 +88,12 @@
   },
   "active": "61735e5e6d0a4ac5",
   "lastOpenFiles": [
-    "挑战目录.md",
-    "Advanced.md",
     "git.md",
+    "Advanced.md",
     "README.md",
     "solidworks.md",
     "实时获取学习进度.md",
+    "挑战目录.md",
     "未命名.md",
     "conflict-files-obsidian-git.md",
     "填表.md",

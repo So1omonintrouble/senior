@@ -17,3 +17,8 @@ dotV:NSD
 V:PD
 dotV:ND
 则x=0是渐进稳定点
+
+
+dotV不等于零除非x=0
+
+设计系统的-x项影响收敛速度
