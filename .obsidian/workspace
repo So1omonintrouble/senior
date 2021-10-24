@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "up2date/实时获取学习进度.md",
+            "file": "短期计划.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "up2date/实时获取学习进度.md",
+                "file": "短期计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,11 +88,11 @@
   },
   "active": "61735e5e6d0a4ac5",
   "lastOpenFiles": [
+    "短期计划.md",
     "up2date/实时获取学习进度.md",
     "README.md",
     "git.md",
     "挑战目录.md",
-    "短期计划.md",
     "实时获取学习进度.md",
     "oldone/solidworks.md",
     "Advanced.md",
