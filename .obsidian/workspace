@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "挑战目录.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "挑战目录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,20 +83,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245,
-    "collapsed": true
+    "width": 245
   },
   "active": "61735e5e6d0a4ac5",
   "lastOpenFiles": [
-    "README.md",
-    "git.md",
     "挑战目录.md",
     "短期计划.md",
-    "up2date/实时获取学习进度.md",
+    "控制方法.md",
+    "深度学习.md",
+    "git.md",
     "实时获取学习进度.md",
+    "README.md",
+    "oldone/Advanced.md",
     "oldone/solidworks.md",
-    "Advanced.md",
-    "solidworks.md",
-    "conflict-files-obsidian-git.md"
+    "up2date/实时获取学习进度.md"
   ]
 }
